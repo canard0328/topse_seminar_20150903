@@ -1,10 +1,8 @@
 # トップエスイーセミナー「ソフトウェアエンジニアのための機械学習によるデータ分析実践」の資料です
 
-* 機械学習によるデータ分析実践編.pdf
+* 講演資料はこちらです
 
-   講義資料です
-
-   [SlideShare](http://www.slideshare.net/canard0328/ss-51632037)にも上がっています
+   [機械学習によるデータ分析実践編](http://www.slideshare.net/canard0328/ss-51632037)
 
 * titanic_jp.ipynb
 
